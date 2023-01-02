@@ -1,1 +1,2 @@
-Readme.md
+Tento projekt je o zálohování dat. Zahrnuje způsoby zálohování, typy zálohování a krátké povídání o médiích pro ukládání
+dat. Dále jsou zde popsány výhody zálohování a tip pro nejlepší způsoby zálohování.
